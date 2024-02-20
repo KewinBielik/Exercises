@@ -5,7 +5,7 @@ class Program
     {
         foreach (string str in strings) { Console.WriteLine(str); }
     }
-    
+
 
     static void Main(string[] args)
     {
