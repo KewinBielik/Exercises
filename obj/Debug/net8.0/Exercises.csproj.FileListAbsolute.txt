@@ -12,3 +12,4 @@ E:\Programing\C#\ExercisesProject\Exercises\Exercises\obj\Debug\net8.0\refint\Ex
 E:\Programing\C#\ExercisesProject\Exercises\Exercises\obj\Debug\net8.0\Exercises.pdb
 E:\Programing\C#\ExercisesProject\Exercises\Exercises\obj\Debug\net8.0\Exercises.genruntimeconfig.cache
 E:\Programing\C#\ExercisesProject\Exercises\Exercises\obj\Debug\net8.0\ref\Exercises.dll
+E:\Programing\C#\ExercisesProject\Exercises\Exercises\obj\Debug\net8.0\Exercises.sourcelink.json
