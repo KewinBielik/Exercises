@@ -52,7 +52,7 @@ class Program
 
         return score;
     }
-    
+
 
     static void Main(string[] args)
     {
